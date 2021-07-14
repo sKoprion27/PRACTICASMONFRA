@@ -6,7 +6,7 @@
         {
             "label": "DjangoServer",
             "type": "shell",
-            "command": "cd Practicas; py manage.py runserver",
+            "command": "cd djangoUsersAuthentication; cd awessome_website; py manage.py runserver",
             "problemMatcher": [],
             "group": {
                 "kind": "build",
